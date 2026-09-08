@@ -1,1 +1,1 @@
-# StarWarsNexus
+Star Wars Nexus is a website I created for a class assignment. I first built it in my first web development course and later used it in a later web development class, where I updated the JavaScript and added React and Bulma to make it more responsive and cleaner than pure JavaScript. I used the Star Wars Databank API for data like name, image, and description, showcased on the website from different categories: https://starwars-databank.vercel.app/. 
