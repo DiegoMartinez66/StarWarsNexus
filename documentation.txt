@@ -1,0 +1,15 @@
+The languages I used for the project was React with Javascripts and Bulma.
+
+The code I implemented help with handle the state in the user options
+where the user can edit how many items to appear on screen, the type, 
+if there is a specific item they need they can find it in the search
+bar and search button to begin finding the item. I create a ajax file to 
+handld the XML request based on the url thats created before hand given the 
+parameters of the number of items, the type of items, or the specific item by name.
+I created the file create link which given those parameters generates the link to 
+feed to find the items. I have create character card which create each item's "card"
+which display the image, name, and description of the item based on the response from
+the XML request. The nexus search ui handles the UI element which the user can interact with
+to changes the parameters and to change the page since it provides the option. The storage 
+file handles storing and loading all the parameters when the user closes the site, can open it up
+and have their options saved. 
